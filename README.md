@@ -1,0 +1,2 @@
+# Ad_Blocking_All_Site
+サイト上のうざったい広告を全て削除する
